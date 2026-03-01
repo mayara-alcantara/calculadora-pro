@@ -4,7 +4,6 @@ Uma calculadora desktop com interface gráfica moderna desenvolvida em **Java** 
 
 ![Java](https://img.shields.io/badge/Java-8%2B-orange?style=for-the-badge&logo=java)
 ![Swing](https://img.shields.io/badge/UI-Swing-blue?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 ---
 
